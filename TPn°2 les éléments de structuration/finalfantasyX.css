@@ -1,0 +1,73 @@
+h1{text-align: center;}
+
+h2{color:#B7270D;
+    text-align: center;
+    text-transform: uppercase;}
+
+body{background-color: #EAE7EF;}
+
+#histoire{text-align: center;}
+
+#personnages{text-align: center;}
+
+
+#banderole{display: block;
+            margin-left: auto;
+            margin-right: auto;}
+
+.perso{text-align: center;}
+
+.maj{text-transform: uppercase;}
+
+.ti{display: block;
+        margin-left: auto;
+        margin-right: auto;
+        color: #E7CD71;}
+
+.yu{display: block;
+            margin-left: auto;
+            margin-right: auto;
+            color: #2C008B;}
+
+.lu{display:block;
+        margin-right:auto ;
+        margin-left: auto;
+            color: #464141;}
+
+.wa{display: block;
+    margin-right: auto;
+    margin-left: auto;
+    color: #FFB900;}
+
+.au{display: block;
+    margin-right: auto;
+    margin-left:auto ;
+    color: #950E0E;}
+
+.ri{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #E1890A;}
+
+.ki{display: block;
+    margin-right: auto;
+    margin-left: auto;
+    color: #101C68;}
+
+.chimeres{display: block;
+        margin-left:auto ;
+        margin-right: auto;
+        text-align: center;}
+
+#chimere{display: block;
+    margin-left:auto ;
+    margin-right: auto;}
+
+#square{display: block;
+    margin-left:auto ;
+    margin-right: auto;}
+
+#foot{text-align: right;}
+
+
+        
